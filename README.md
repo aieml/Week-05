@@ -3,4 +3,4 @@ In Week 05 We discussed about Contours and Contour Operation under low level ima
 
 Read more about Contour Operations @ [OpenCV official Documentation](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_contours/py_table_of_contents_contours/py_table_of_contents_contours.html#table-of-content-contours)
 
-Video Segment to understan [Decision Tree Algorithm](https://www.youtube.com/watch?v=qDcl-FRnwSU) 
+Video Segment to understand [Decision Tree Algorithm](https://www.youtube.com/watch?v=qDcl-FRnwSU) 
